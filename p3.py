@@ -1,0 +1,1 @@
+print ("loving homiee ,zidan ,pedo ,hossni and me")

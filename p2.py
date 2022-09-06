@@ -1,0 +1,1 @@
+print ("no one can lose ,try is a suicess ")
