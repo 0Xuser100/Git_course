@@ -20,6 +20,7 @@ void registration();
 void forgot();
 
 int main() {
+     system("color E");
     showmenue();
     int c;
     cin>>c;
