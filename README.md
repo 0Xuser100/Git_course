@@ -1,5 +1,4 @@
-# Git_course
-my bignner courses
+#my bignner courses
 
 
 ## project notes
